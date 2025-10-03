@@ -3,7 +3,7 @@ Meu nome é Alexandre, atualmente cursando o ensino médio técnico de
 **desenvolvimento de sistemas**!!
 - Atualmente no **primeiro ano** ainda sou iniciante, mas estou sempre apto a aprender 👌
 - Email: alexandrecostadziubate501@gmail.com
-- Objetivo pra se alcançar vestibular no **ITA** em engenharia computacional!
+- Objetivo pra se alcançar vestibular no [ITA](http://www.ita.br/) em engenharia computacional!
 <!--
 **Alexer4/Alexer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
