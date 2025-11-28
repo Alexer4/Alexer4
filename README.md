@@ -3,7 +3,7 @@ Meu nome é Alexandre, atualmente cursando o ensino médio técnico de
 **desenvolvimento de sistemas**!!
 - Atualmente no **primeiro ano** ainda sou iniciante, mas estou sempre apto a aprender 👌
 - Email: alexandrecostadziubate501@gmail.com
-- Objetivo ainda um pouco desconexo, sonho em engenharia da computação [UFPR](https://ufpr.br/)
+- Objetivo ainda um pouco desconexo, sonho em ciência da computação [UFPR](https://ufpr.br/)
 - Atualmente, estou desenvolvendo alguns projetos voltados a HTML, e CSS com o objetivo de melhorar meu **Front-End**
 <!--
 **Alexer4/Alexer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
