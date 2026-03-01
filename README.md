@@ -1,10 +1,9 @@
-## Bem vindos ao meu perfil 👏
-Meu nome é Alexandre, atualmente cursando o ensino médio técnico de 
-**desenvolvimento de sistemas**!!
-- Atualmente no **primeiro ano** ainda sou iniciante, mas estou sempre apto a aprender 👌
+## Welcome to my profile 👏
+My name is Alexandre, currently attending the technical high school program in **systems development**!!
+- Currently in the **second year** I am still a beginner, but I am always ready to learn 👌
 - Email: alexandrecostadziubate501@gmail.com
-- Objetivo ainda um pouco desconexo, sonho em ciência da computação [UFPR](https://ufpr.br/)
-- Atualmente, estou desenvolvendo alguns projetos voltados a HTML, e CSS com o objetivo de melhorar meu **Front-End**
+- My goal is clear, I wanna get into **Developing AIs** and **Machine Learning**! My first step will hopefuly be in [Biopark](https://biopark.com.br/) 
+- Currently, I am developing some projects focused on HTML and CSS with the goal of improving my **Front-End**
 <!--
 **Alexer4/Alexer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
