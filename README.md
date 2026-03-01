@@ -1,11 +1,29 @@
-## Welcome to my profile 👏
-My name is Alexandre, currently attending the technical high school program in **systems development**!!
-- Currently in the **second year** I`m still a beginner, but I am always ready to learn 👌
-- Email: alexandrecostadziubate501@gmail.com
-- Telephone: +55 (44) 99837-5613
-- My goal is clear, I wanna get into **Developing AIs** and **Machine Learning**! My first step will hopefuly be in [Biopark](https://biopark.com.br/) 
-- I completed projects focused on HTML and CSS with the goal of enhancing my Front-End skills!
-- Curently, i wanna get better at **finne tunning** and **machine Learning**, at courses.
+# Welcome to my profile 👏
+
+Hi, my name is **Alexandre**.  
+I am currently attending the technical high school program in **Systems Development**!
+
+I’m in my second year. Although I’m still a beginner, I’m always eager to learn 👌  
+
+📧 **Email:** alexandrecostadziubate501@gmail.com  
+📞 **Telephone:** +55 (44) 99837-5613  
+
+---
+
+## 🎯 Goals
+My goal is clear: I want to work in **Artificial Intelligence (AI)** and **Machine Learning**.  
+My first step will hopefully be at **Biopark**.
+
+---
+
+## 🖥️ Projects
+- Completed projects focused on **HTML and CSS**, aimed at enhancing my **Front-End skills**.
+
+---
+
+## 📚 Current Focus
+I am currently working on improving my knowledge of **fine-tuning** and **Machine Learning** through specialized courses.
+
 <!--
 **Alexer4/Alexer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
