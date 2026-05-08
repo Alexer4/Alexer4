@@ -25,6 +25,14 @@ My first step will hopefully be at **Biopark**.
 I am currently working on improving my knowledge of **fine-tuning** and **Machine Learning** through specialized courses and XAND.AI!
 XAND.AI is a Artificial Inteligence that improves according to your goals and personality, and gives the best advice for each person! right now, its still in development phase!
 
+## What do I have in diferenttial?
+
+- C1 English certification;
+- Front-end Basics;
+  
+
+
+
 <!--
 **Alexer4/Alexer4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
